@@ -2,6 +2,8 @@
 
 Este material ainda está em desenvolvimento, o conteúdo aqui presente é apenas preliminar.
 
+Em breve vou disponibilizar os arquivos tex.
+
 ## Objetivos
 
 Estes materiais são notas de aula da minha graduação de Matemática na [UFMT][0], que conclui em 2010.
